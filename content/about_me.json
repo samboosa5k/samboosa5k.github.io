@@ -1,0 +1,11 @@
+{
+    "title": "About Me",
+    "image": "content/img/profile_pic.jpg",
+    "layout": "centered",
+    "url": "about-me",
+    "content": [
+        "Welcome to my humble web-development portfolio page, where you can see the projects I've completed and the ones I'm still working on.",
+        "Having a digital-art and design background, I apply my keen eye for pretty colors and obsessive organization to create amazing websites!",
+        "I also really love my dogs, and am passionate about Pizza, Belgian beer and Scottish whiskey."
+    ]
+}

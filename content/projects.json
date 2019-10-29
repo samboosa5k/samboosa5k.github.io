@@ -1,0 +1,17 @@
+{
+    "title": "Projects",
+    "image": [
+        "content/img/project_image.jpg",
+        "content/img/project_image.jpg",
+        "content/img/project_image.jpg",
+        "content/img/project_image.jpg"
+    ],
+    "layout": "grid",
+    "url": "projects",
+    "content": [
+        "Project 1",
+        "Project 2",
+        "Project 3",
+        "Project 4"
+    ]
+}

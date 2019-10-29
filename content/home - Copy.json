@@ -1,0 +1,10 @@
+{
+    "title": "Home",
+    "image": null,
+    "layout": "centered",
+    "url": "home",
+    "content": [
+        "<p>Welcome to my humble web-development portfolio.</p>",
+        "<p>Created with love <3</p>"
+    ]
+}

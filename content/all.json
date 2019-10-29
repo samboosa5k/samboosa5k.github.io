@@ -1,0 +1,114 @@
+{
+    "miscellaneous": {
+        "consoleText1": "Jasper's React-based Web-Development Portfolio [Version 0.0.1 alpha]",
+        "consoleText2": "(c) 2019 Geek Corporation. Minimal rights reserved."
+    },
+    "home": {
+        "title": "C:\\Home>",
+        "image": null,
+        "layout": "centered",
+        "url": "home",
+        "content": [
+            "Welcome to my humble web-development portfolio page, where you can see the projects I've completed and the ones I'm still working on.",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "Created with love <3"
+        ]
+    },
+    "skills": {
+        "title": "C:\\Jasper\\Mad-Skills>",
+        "image": null,
+        "layout": "centered",
+        "url": "skills",
+        "content": [
+            "<STYLING>",
+            "HTML",
+            "CSS",
+            "BOOTSTRAP",
+            "PHOTOSHOP",
+            "ILLUSTRATOR",
+            "<FRONTEND>",
+            "JS",
+            "REACT",
+            "<BACKEND>",
+            "PHP",
+            "LARAVEL",
+            "MySQL",
+            "<RELATED>",
+            "GIT",
+            "WORDPRESS",
+            "<MARKETING>",
+            "GOOGLE-ANALYTICS",
+            "ADWORDS",
+            "TAG-MANAGER"
+        ]
+    },
+    "about": {
+        "title": "C:\\Jasper\\About>",
+        "image": "content/img/profile_pic.jpg",
+        "layout": "centered",
+        "url": "about-me",
+        "content": [
+            "Having a digital-art and design background, I apply my keen eye for pretty colors and obsessive organization to create amazing websites!",
+            ".",
+            ".",
+            ".",
+            "I also really love my dogs, and am passionate about Pizza, Belgian beer and Scottish whiskey."
+        ]
+    },
+    "projects": {
+        "title": "C:\\Projects>",
+        "image": [
+            "content/img/project_image.png",
+            "content/img/project_image.png",
+            "content/img/project_image.png",
+            "content/img/project_image.png"
+        ],
+        "layout": "grid",
+        "url": [
+            "url - Project 1",
+            "url - Project 2",
+            "url - Project 3",
+            "url - Project 4"
+        ],
+        "header": [
+            "Project 1",
+            "Project 2",
+            "Project 3",
+            "Project 4"
+        ],
+        "content": [
+            "Content 1 | Rough portfolio done in week 2 of the coding-bootcamp, now replaced.| Was unsatisfied so I created a completely new version afterwards.",
+            "Content 2 | Portfolio/developer page done in React, new design.",
+            "Content 3",
+            "Content 4"
+        ],
+        "languages": [
+            "HTML, SCSS, JS",
+            "HTML, SCSS, REACT, JSON"
+        ]
+    },
+    "contact": {
+        "title": "C:\\Contact>",
+        "image": [
+            "content/img/contact-icon.jpg",
+            "content/img/contact-icon.jpg",
+            "content/img/contact-icon.jpg"
+        ],
+        "layout": "grid",
+        "url": [
+            "url - Project 1",
+            "url - Project 2",
+            "url - Project 4"
+        ],
+        "content": [
+            "Git",
+            "LinkedIn",
+            "Instagram"
+        ]
+    }
+}
