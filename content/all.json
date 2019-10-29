@@ -70,22 +70,22 @@
         ],
         "layout": "grid",
         "url": [
-            "url - Project 1",
-            "url - Project 2",
-            "url - Project 3",
-            "url - Project 4"
+            "#",
+            "https://samboosa5k.github.io",
+            "#",
+            "#"
         ],
         "header": [
-            "Project 1",
-            "Project 2",
+            "Prototype Web Developer Portfolio",
+            "Current Web Developer Portfolio",
             "Project 3",
             "Project 4"
         ],
         "content": [
-            "Content 1 | Rough portfolio done in week 2 of the coding-bootcamp, now replaced.| Was unsatisfied so I created a completely new version afterwards.",
-            "Content 2 | Portfolio/developer page done in React, new design.",
-            "Content 3",
-            "Content 4"
+            "Rough portfolio done in week 2 of the coding-bootcamp, now replaced.| Was unsatisfied so I created a completely new version afterwards.",
+            "Portfolio/developer page done in React, new design.",
+            "Content will be added soon...",
+            "Content will be added soon..."
         ],
         "languages": [
             "HTML, SCSS, JS",
@@ -101,9 +101,9 @@
         ],
         "layout": "grid",
         "url": [
-            "url - Project 1",
-            "url - Project 2",
-            "url - Project 4"
+            "https://github.com/samboosa5k/",
+            "https://www.linkedin.com/in/jasperverbon/",
+            "https://www.instagram.com/jasper5k/"
         ],
         "content": [
             "Git",
